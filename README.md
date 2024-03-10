@@ -21,7 +21,7 @@ Derin Diver, Degz Robotics Suibo Kontrol kartı üzerinde çalışmak üzere tas
 
 ## Derin Diver Kurulumu
 
-1. En son yayınlanmış sürüme gidip UF2 dosyasını indirin [Releases](https://github.com/degzrobotics/Derin-Diver/releases/tag/latest).
+1. En son yayınlanmış sürüme gidip UF2 dosyasını indirin [Releases](https://github.com/degzrobotics/Derin-Diver/releases/latest).
 2. Degz Robotics Suibo kartını bootloader moduna alın. BOOT tuşuna basılı tutarak USB ile bilgisayara bağlayabilirsiniz veya kart halihazırda bağlıysa, BOOT ve RESET tuşlarına aynı anda basıp ilk başta reset tuşundan elinizi kaldırıp ardından boot tuşundan elinizi kaldırarak da bootloader moduna girebilirsiniz.
 3. İndirdiğiniz UF2 dosyasını bilgisayarınızın tanıyacağı RPI-RP2 adlı sürücüye kopyalayın. Kopyalama işlemi bittikten sonra sürücü kaybolacaktır ve Derin Diver yazılımını başarıyla yüklemiş olacaksınız.
 4. Kurulumun başarıyla tamamlandığından emin olmak için kartınızı USB ile bilgisayara bağladıktan sonra Arduino vb Serial Port okuyabilen bir programla kartın bağlı olduğu COM portunu açtığınızda yazılımın açılış mesajlarını görebilirsiniz. Hiçbir mesaj görmüyorsanız RESET tuşuna basıp kartı yeniden başlatabilirsiniz.
