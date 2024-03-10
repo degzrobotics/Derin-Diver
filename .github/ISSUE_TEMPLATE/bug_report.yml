@@ -5,8 +5,8 @@ labels: "Type: Bug"
 body:
 - type: input
   attributes:
-    label: DerinPilot Version
-    description: What version of DerinPilot are you using?
+    label: Derin Diver Version
+    description: What version of Derin Diver are you using?
     placeholder: 0.1.1-Beta
   validations:
     required: true
