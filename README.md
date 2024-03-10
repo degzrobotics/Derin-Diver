@@ -1,5 +1,5 @@
 # Derin-Diver
-##Degz Robotics Suibo uyumlu İnsansız Su Altı Aracı kontrol yazılımı
+## Degz Robotics Suibo uyumlu İnsansız Su Altı Aracı kontrol yazılımı
 
 Derin Diver, Degz Robotics Suibo Kontrol kartı üzerinde çalışmak üzere tasarlanmış olan bir İnsansız Su Altı Aracı kontrol yazılımıdır. 
 
