@@ -13,8 +13,8 @@ Derin Diver, Degz Robotics Suibo Kontrol kartı üzerinde çalışmak üzere tas
 - Kolayca ayarlanabilir PID kontrolü.
 - Tüm ayarlara kolayca erişebileceğiniz Parameter Sistemi
 - Log sistemi
-- Modern ve kolay kullanılabilen Dive Control Arayüzü ile uyumlu
-- Kolayca otonom komutları yollayabileceğiniz Dive Commander otopilot kütüphanesi ile uyumlu
+- Modern ve kolay kullanılabilen [Dive Control Arayüzü](https://github.com/degzrobotics/Dive-Control) ile uyumlu
+- Kolayca otonom komutları yollayabileceğiniz [Derin Commander](https://github.com/degzrobotics/DerinCommander) otopilot kütüphanesi ile uyumlu
 - Degz Rolicam ile çalışmaya hazır.
 
 ### Kartınızı verimli kullanabilmek için CH340 driverini kurmanız gerekmektedir.
