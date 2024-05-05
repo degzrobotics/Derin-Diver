@@ -5,7 +5,7 @@ Derin Diver, Degz Robotics Suibo Kontrol kartı üzerinde çalışmak üzere tas
 
 ## Özellikler
 
-- 6 ve 8 motorlu araçlar için kullanıma uygun. (Farklı motor konfigürasyonlarına destek yakın zamanda gelecektir.)
+- Tasarlayabileceğiniz her gövde ile uygun, 6 ve 8 motorlu konfigürasyonlar yüklü gelir. Farklı konfigürasyonlar için iletişime geçiniz
 - Açı ölçer, ivme ölçer ve pusula sensörleri ile 9 Eksen stabilizasyon.
 - [Degz Robotics D300 Derinlik Sensörü ile](https://degzrobotics.com/product/derinlik-ve-sicaklik-sensoru/) derinlik ve su sıcaklığı ölçümü.
 - Anlık voltaj ve akım ölçümü.
